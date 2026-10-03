@@ -1,0 +1,6 @@
+{
+  "name": "Little Doodler - Toddler Coloring & Drawing",
+  "description": "Joyful, simple coloring book and drawing toy made for toddlers aged 1–4 with big touch targets, cheerful sounds, and no distractions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

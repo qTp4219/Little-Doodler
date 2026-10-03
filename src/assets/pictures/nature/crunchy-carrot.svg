@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Big Carrot" data-category="nature" data-accent="#F97316">
+  <title>Big Carrot</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Garden Bed" fill="#FEF3C7" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="carrot" name="Carrot Body" fill="#F97316" d="M 180 160 C 250 150 320 160 300 200 L 260 450 L 240 450 L 200 200 Z" />
+    <path id="leaf_l" name="Green Leaf Left" fill="#22C55E" d="M 220 160 C 160 70 220 60 230 160 Z" />
+    <path id="leaf_c" name="Green Leaf Mid" fill="#16A34A" d="M 240 160 C 230 40 270 40 260 160 Z" />
+    <path id="leaf_r" name="Green Leaf Right" fill="#22C55E" d="M 270 160 C 340 70 280 60 270 160 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 180 160 C 250 150 320 160 300 200 L 260 450 L 240 450 L 200 200 Z" />
+  </g>
+</svg>

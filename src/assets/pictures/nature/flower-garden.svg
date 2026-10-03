@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Smiling Flower" data-category="nature" data-accent="#F59E0B">
+  <title>Smiling Flower</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sunny Sky" fill="#FEF3C7" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="pot" name="Flower Pot" fill="#F97316" d="M 160 360 L 340 360 L 310 470 L 190 470 Z" />
+    <path id="stem" name="Stem" fill="#22C55E" d="M 240 250 L 260 250 L 260 360 L 240 360 Z" />
+    <path id="leaf_l" name="Left Leaf" fill="#4ADE80" d="M 240 290 C 170 270 160 330 240 330 Z" />
+    <path id="leaf_r" name="Right Leaf" fill="#4ADE80" d="M 260 280 C 330 260 340 320 260 320 Z" />
+    <path id="petals" name="Petals" fill="#F43F5E" d="M 250 80 C 275 80 275 140 250 140 C 225 140 225 80 250 80 Z M 250 200 C 275 200 275 260 250 260 C 225 260 225 200 250 200 Z M 160 170 C 160 145 220 145 220 170 C 220 195 160 195 160 170 Z M 280 170 C 280 145 340 145 340 170 C 340 195 280 195 280 170 Z" />
+    <path id="center" name="Flower Face" fill="#FACC15" d="M 250 125 C 285 125 305 145 305 170 C 305 195 285 215 250 215 C 215 215 195 195 195 170 C 195 145 215 125 250 125 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 230 160 C 236 160 236 172 230 172 C 224 172 224 160 230 160 Z M 270 160 C 276 160 276 172 270 172 C 264 172 264 160 270 160 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 240 182 Q 250 196 260 182" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 125 C 285 125 305 145 305 170 C 305 195 285 215 250 215 C 215 215 195 195 195 170 C 195 145 215 125 250 125 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 160 360 L 340 360 L 310 470 L 190 470 Z" />
+  </g>
+</svg>

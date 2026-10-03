@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Party Cupcake" data-category="nature" data-accent="#A855F7">
+  <title>Party Cupcake</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Confetti Sky" fill="#FAF5FF" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="cup" name="Baking Cup" fill="#38BDF8" d="M 160 260 L 340 260 L 310 430 L 190 430 Z" />
+    <path id="frosting" name="Swirly Frosting" fill="#F472B6" d="M 250 110 C 140 110 120 270 250 270 C 380 270 360 110 250 110 Z" />
+    <path id="cherry" name="Cherry On Top" fill="#EF4444" d="M 250 70 C 230 70 230 110 250 110 C 270 110 270 70 250 70 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 160 260 L 340 260 L 310 430 L 190 430 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 110 C 140 110 120 270 250 270 C 380 270 360 110 250 110 Z" />
+  </g>
+</svg>

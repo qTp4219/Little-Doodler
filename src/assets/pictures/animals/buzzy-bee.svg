@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Happy Bee" data-category="animals" data-accent="#EAB308">
+  <title>Happy Bee</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sunny Sky" fill="#FEF9C3" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="wing_l" name="Wing Left" fill="#E0F2FE" d="M 220 190 C 180 80 250 60 250 190 Z" />
+    <path id="wing_r" name="Wing Right" fill="#E0F2FE" d="M 270 190 C 310 80 240 60 240 190 Z" />
+    <path id="body" name="Bee Body" fill="#FACC15" d="M 250 180 C 160 180 150 360 250 370 C 350 360 340 180 250 180 Z" />
+    <path id="stripe1" name="Stripe Top" fill="#1E293B" d="M 170 230 L 330 230 L 335 260 L 165 260 Z" />
+    <path id="stripe2" name="Stripe Bottom" fill="#1E293B" d="M 180 290 L 320 290 L 310 320 L 190 320 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 215 200 C 222 200 222 212 215 212 C 208 212 208 200 215 200 Z M 285 200 C 292 200 292 212 285 212 C 278 212 278 200 285 200 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 180 C 160 180 150 360 250 370 C 350 360 340 180 250 180 Z" />
+  </g>
+</svg>

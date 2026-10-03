@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Little Airplane" data-category="vehicles" data-accent="#38BDF8">
+  <title>Little Airplane</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sky & Clouds" fill="#E0F2FE" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="cloud" name="Cloud" fill="#FFFFFF" d="M 80 380 C 60 350 120 320 160 340 C 200 320 260 350 240 380 Z" />
+    <path id="body" name="Airplane Body" fill="#F8FAFC" d="M 100 250 C 140 210 380 210 420 250 C 380 290 140 290 100 250 Z" />
+    <path id="wing_top" name="Top Wing" fill="#EF4444" d="M 240 230 L 300 120 L 340 120 L 300 230 Z" />
+    <path id="wing_bot" name="Bottom Wing" fill="#EF4444" d="M 240 270 L 300 380 L 340 380 L 300 270 Z" />
+    <path id="tail" name="Tail Fin" fill="#3B82F6" d="M 100 250 L 140 170 L 170 170 L 150 250 Z" />
+    <path id="windshield" name="Cockpit Window" fill="#38BDF8" d="M 350 230 C 380 230 380 270 350 270 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 100 250 C 140 210 380 210 420 250 C 380 290 140 290 100 250 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 240 230 L 300 120 L 340 120 L 300 230 Z M 240 270 L 300 380 L 340 380 L 300 270 Z" />
+  </g>
+</svg>

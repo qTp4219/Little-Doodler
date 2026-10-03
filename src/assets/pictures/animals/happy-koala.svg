@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Fluffy Koala" data-category="animals" data-accent="#64748B">
+  <title>Fluffy Koala</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Eucalyptus Woods" fill="#ECFDF5" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="tree" name="Tree Trunk" fill="#92400E" d="M 100 10 L 160 10 L 170 490 L 110 490 Z" />
+    <path id="ear_l" name="Fluffy Ear Left" fill="#94A3B8" d="M 210 110 C 160 80 160 160 210 160 Z" />
+    <path id="ear_in_l" name="Inner Ear Left" fill="#F8FAFC" d="M 205 120 C 180 105 180 150 205 150 Z" />
+    <path id="ear_r" name="Fluffy Ear Right" fill="#94A3B8" d="M 350 110 C 400 80 400 160 350 160 Z" />
+    <path id="ear_in_r" name="Inner Ear Right" fill="#F8FAFC" d="M 355 120 C 380 105 380 150 355 150 Z" />
+    <path id="head" name="Head" fill="#94A3B8" d="M 280 100 C 200 100 200 230 280 240 C 360 230 360 100 280 100 Z" />
+    <path id="nose" name="Big Oval Nose" fill="#1E293B" d="M 280 155 C 260 155 260 205 280 205 C 300 205 300 155 280 155 Z" />
+    <path id="body" name="Body" fill="#94A3B8" d="M 280 240 C 200 240 200 390 280 400 C 350 390 350 240 280 240 Z" />
+    <path id="belly" name="White Tummy" fill="#F8FAFC" d="M 280 260 C 230 260 230 370 280 370 C 330 370 330 260 280 260 Z" />
+    <path id="arm_l" name="Hugging Arm Left" fill="#64748B" d="M 215 250 C 150 260 150 320 215 310 Z" />
+    <path id="arm_r" name="Hugging Arm Right" fill="#64748B" d="M 335 250 C 380 260 380 320 335 310 Z" />
+    <path id="leg_l" name="Climbing Foot Left" fill="#64748B" d="M 215 350 C 160 360 160 420 225 410 Z" />
+    <path id="leg_r" name="Climbing Foot Right" fill="#64748B" d="M 325 350 C 370 360 370 420 315 410 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 245 145 C 252 145 252 158 245 158 C 238 158 238 145 245 145 Z M 315 145 C 322 145 322 158 315 158 C 308 158 308 145 315 145 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 280 100 C 200 100 200 230 280 240 C 360 230 360 100 280 100 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 100 10 L 160 10 L 170 490 L 110 490 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 215 250 C 150 260 150 320 215 310 Z M 215 350 C 160 360 160 420 225 410 Z" />
+  </g>
+</svg>

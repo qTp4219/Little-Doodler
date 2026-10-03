@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Space Rocket" data-category="vehicles" data-accent="#EF4444">
+  <title>Space Rocket</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Deep Space" fill="#0F172A" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="flame" name="Rocket Fire" fill="#F97316" d="M 210 390 L 250 470 L 290 390 Z" />
+    <path id="body" name="Rocket Body" fill="#F8FAFC" d="M 250 60 C 190 130 180 320 200 390 L 300 390 C 320 320 310 130 250 60 Z" />
+    <path id="nose" name="Red Nose Cone" fill="#EF4444" d="M 250 60 C 220 100 210 140 210 150 L 290 150 C 290 140 280 100 250 60 Z" />
+    <path id="fin_l" name="Fin Left" fill="#3B82F6" d="M 190 320 L 120 400 L 195 390 Z" />
+    <path id="fin_r" name="Fin Right" fill="#3B82F6" d="M 310 320 L 380 400 L 305 390 Z" />
+    <path id="window" name="Porothole Glass" fill="#38BDF8" d="M 250 200 C 220 200 220 260 250 260 C 280 260 280 200 250 200 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 60 C 190 130 180 320 200 390 L 300 390 C 320 320 310 130 250 60 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 190 320 L 120 400 L 195 390 Z M 310 320 L 380 400 L 305 390 Z" />
+  </g>
+</svg>

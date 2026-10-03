@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Happy Monkey" data-category="animals" data-accent="#92400E">
+  <title>Happy Monkey</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Jungle Vines" fill="#DCFCE7" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="ear_l" name="Ear Left" fill="#B45309" d="M 160 120 C 110 120 110 190 160 190 Z" />
+    <path id="ear_in_l" name="Inner Ear Left" fill="#FDE68A" d="M 160 135 C 130 135 130 175 160 175 Z" />
+    <path id="ear_r" name="Right Ear" fill="#B45309" d="M 340 120 C 390 120 390 190 340 190 Z" />
+    <path id="ear_in_r" name="Inner Ear Right" fill="#FDE68A" d="M 340 135 C 370 135 370 175 340 175 Z" />
+    <path id="head" name="Head" fill="#92400E" d="M 250 90 C 170 90 160 210 250 220 C 340 210 330 90 250 90 Z" />
+    <path id="face" name="Face Mask" fill="#FDE68A" d="M 250 115 C 190 115 180 205 250 210 C 320 205 310 115 250 115 Z" />
+    <path id="body" name="Monkey Body" fill="#92400E" d="M 250 220 C 170 220 160 380 250 390 C 340 380 330 220 250 220 Z" />
+    <path id="belly" name="Tummy" fill="#FDE68A" d="M 250 240 C 200 240 200 350 250 350 C 300 350 300 240 250 240 Z" />
+    <path id="arm_l" name="Arm Left" fill="#92400E" d="M 175 240 C 120 250 120 340 180 320 C 180 300 150 280 185 260 Z" />
+    <path id="arm_r" name="Arm Right" fill="#92400E" d="M 325 240 C 380 250 380 340 320 320 C 320 300 350 280 315 260 Z" />
+    <path id="banana" name="Sweet Banana" fill="#FACC15" d="M 210 310 C 230 350 270 350 290 310 C 270 330 230 330 210 310 Z" />
+    <path id="foot_l" name="Left Foot" fill="#92400E" d="M 190 380 C 150 380 150 440 210 440 Z" />
+    <path id="foot_r" name="Right Foot" fill="#92400E" d="M 310 380 C 350 380 350 440 290 440 Z" />
+    <path id="tail" name="Curly Tail" fill="#92400E" d="M 330 350 C 430 350 440 220 380 220 C 365 220 365 240 385 240 C 410 240 405 320 330 330 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 220 145 C 226 145 226 158 220 158 C 214 158 214 145 220 145 Z M 280 145 C 286 145 286 158 280 158 C 274 158 274 145 280 145 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 225 180 Q 250 200 275 180" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 90 C 170 90 160 210 250 220 C 340 210 330 90 250 90 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 220 C 170 220 160 380 250 390 C 340 380 330 220 250 220 Z" />
+  </g>
+</svg>

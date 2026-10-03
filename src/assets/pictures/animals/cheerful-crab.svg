@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Beach Crab" data-category="animals" data-accent="#EF4444">
+  <title>Beach Crab</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sandy Beach" fill="#FEF3C7" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="body" name="Crab Body" fill="#EF4444" d="M 250 200 C 160 200 150 340 250 340 C 350 340 340 200 250 200 Z" />
+    <path id="claw_l" name="Claw Left" fill="#DC2626" d="M 150 230 C 90 200 80 120 140 140 C 160 160 120 180 150 230 Z" />
+    <path id="claw_r" name="Claw Right" fill="#DC2626" d="M 350 230 C 410 200 420 120 360 140 C 340 160 380 180 350 230 Z" />
+    <path id="eye_stalk_l" name="Eye Left" fill="#FFFFFF" d="M 200 170 C 180 170 180 210 200 210 Z" />
+    <path id="eye_stalk_r" name="Eye Right" fill="#FFFFFF" d="M 300 170 C 280 170 280 210 300 210 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 195 185 C 200 185 200 195 195 195 C 190 195 190 185 195 185 Z M 295 185 C 300 185 300 195 295 195 C 290 195 290 185 295 185 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 210 280 Q 250 310 290 280" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 200 C 160 200 150 340 250 340 C 350 340 340 200 250 200 Z" />
+  </g>
+</svg>

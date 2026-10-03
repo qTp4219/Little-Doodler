@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Watermelon Slice" data-category="nature" data-accent="#10B981">
+  <title>Watermelon Slice</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sunny Picnic" fill="#F0FDF4" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="rind_green" name="Green Rind" fill="#16A34A" d="M 50 230 C 90 390 410 390 450 230 L 420 230 C 380 360 120 360 80 230 Z" />
+    <path id="rind_white" name="White Rind" fill="#DCFCE7" d="M 80 230 C 120 360 380 360 420 230 L 400 230 C 360 335 140 335 100 230 Z" />
+    <path id="flesh" name="Sweet Red Melon" fill="#EF4444" d="M 100 230 C 140 335 360 335 400 230 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 180 260 C 185 260 185 275 180 275 C 175 275 175 260 180 260 Z M 250 280 C 255 280 255 295 250 295 C 245 295 245 280 250 280 Z M 320 260 C 325 260 325 275 320 275 C 315 275 315 260 320 260 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 50 230 C 90 390 410 390 450 230 Z" />
+  </g>
+</svg>

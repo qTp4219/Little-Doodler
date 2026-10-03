@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Tall Giraffe" data-category="animals" data-accent="#F59E0B">
+  <title>Tall Giraffe</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Savannah" fill="#FEF9C3" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="grass" name="Grass Field" fill="#BBF7D0" d="M 10 440 L 490 440 L 490 490 L 10 490 Z" />
+    <path id="neck" name="Neck & Body" fill="#FBBF24" d="M 200 130 L 220 300 C 170 320 160 400 260 400 C 360 400 350 320 290 300 L 270 130 Z" />
+    <path id="head" name="Head" fill="#FBBF24" d="M 235 60 C 180 60 180 140 235 140 C 290 140 290 60 235 60 Z" />
+    <path id="spot1" name="Spot 1" fill="#B45309" d="M 225 180 C 210 180 210 210 225 210 C 240 210 240 180 225 180 Z" />
+    <path id="spot2" name="Spot 2" fill="#B45309" d="M 255 240 C 240 240 240 270 255 270 C 270 270 270 240 255 240 Z" />
+    <path id="leg_fl" name="Front Left Leg" fill="#F59E0B" d="M 205 380 L 205 450 L 225 450 L 225 380 Z" />
+    <path id="leg_fr" name="Front Right Leg" fill="#F59E0B" d="M 235 380 L 235 450 L 255 450 L 255 380 Z" />
+    <path id="leg_bl" name="Back Left Leg" fill="#F59E0B" d="M 275 380 L 275 450 L 295 450 L 295 380 Z" />
+    <path id="leg_br" name="Back Right Leg" fill="#F59E0B" d="M 305 380 L 305 450 L 325 450 L 325 380 Z" />
+    <path id="muzzle" name="Muzzle" fill="#FDE68A" d="M 235 105 C 205 105 205 140 235 140 C 265 140 265 105 235 105 Z" />
+    <path id="tail" name="Tail with Tuft" fill="#B45309" d="M 340 330 C 380 340 380 400 360 410 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 215 85 C 220 85 220 95 215 95 C 210 95 210 85 215 85 Z M 255 85 C 260 85 260 95 255 95 C 250 95 250 85 255 85 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 215 50 L 210 25 M 255 50 L 260 25" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 235 60 C 180 60 180 140 235 140 C 290 140 290 60 235 60 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 200 130 L 220 300 C 170 320 160 400 260 400 C 360 400 350 320 290 300 L 270 130 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 205 380 L 205 450 M 235 380 L 235 450 M 275 380 L 275 450 M 305 380 L 305 450" />
+  </g>
+</svg>

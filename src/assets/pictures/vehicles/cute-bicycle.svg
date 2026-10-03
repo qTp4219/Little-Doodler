@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Toddler Trike" data-category="vehicles" data-accent="#EF4444">
+  <title>Toddler Trike</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Park Lane" fill="#ECFDF5" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="frame" name="Bike Frame" fill="#EF4444" d="M 180 340 L 250 230 L 340 340 L 230 340 Z" />
+    <path id="seat" name="Seat" fill="#1E293B" d="M 230 220 L 280 220 L 270 240 L 240 240 Z" />
+    <path id="wheel_l" name="Front Wheel" fill="#3B82F6" d="M 150 340 C 100 340 100 440 150 440 C 200 440 200 340 150 340 Z" />
+    <path id="wheel_r" name="Back Wheel" fill="#3B82F6" d="M 350 340 C 300 340 300 440 350 440 C 400 440 400 340 350 340 Z" />
+    <path id="handle" name="Handlebar" fill="#F59E0B" d="M 160 170 L 210 170 L 200 230 L 180 230 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 150 340 C 100 340 100 440 150 440 C 200 440 200 340 150 340 Z M 350 340 C 300 340 300 440 350 440 C 400 440 400 340 350 340 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 180 340 L 250 230 L 340 340 L 230 340 Z" />
+  </g>
+</svg>

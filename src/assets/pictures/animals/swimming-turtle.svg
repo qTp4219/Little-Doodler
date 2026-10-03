@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Turtle" data-category="animals" data-accent="#15803D">
+  <title>Turtle</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Deep Sea" fill="#E0F2FE" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="shell" name="Shell" fill="#15803D" d="M 250 160 C 150 160 140 320 250 320 C 360 320 350 160 250 160 Z" />
+    <path id="shell_in" name="Shell Pattern" fill="#4ADE80" d="M 250 200 C 200 200 190 280 250 280 C 310 280 300 200 250 200 Z" />
+    <path id="head" name="Head" fill="#86EFAC" d="M 140 240 C 90 240 90 180 140 180 Z" />
+    <path id="flipper_fl" name="Flipper Top Left" fill="#86EFAC" d="M 180 160 C 160 90 220 90 220 160 Z" />
+    <path id="flipper_fr" name="Flipper Top Right" fill="#86EFAC" d="M 320 160 C 340 90 280 90 280 160 Z" />
+    <path id="flipper_bl" name="Flipper Bottom Left" fill="#86EFAC" d="M 180 320 C 160 390 220 390 220 320 Z" />
+    <path id="flipper_br" name="Flipper Bottom Right" fill="#86EFAC" d="M 320 320 C 340 390 280 390 280 320 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 115 200 C 120 200 120 210 115 210 C 110 210 110 200 115 200 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 160 C 150 160 140 320 250 320 C 360 320 350 160 250 160 Z" />
+  </g>
+</svg>

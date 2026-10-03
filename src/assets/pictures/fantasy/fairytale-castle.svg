@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Magic Castle" data-category="fantasy" data-accent="#A855F7">
+  <title>Magic Castle</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Kingdom Sky" fill="#FAF5FF" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="wall" name="Castle Wall" fill="#E2E8F0" d="M 140 260 L 360 260 L 360 430 L 140 430 Z" />
+    <path id="gate" name="Gate Door" fill="#78350F" d="M 220 340 C 220 300 280 300 280 340 L 280 430 L 220 430 Z" />
+    <path id="tower_l" name="Tower Left" fill="#CBD5E1" d="M 110 200 L 170 200 L 170 430 L 110 430 Z" />
+    <path id="roof_l" name="Roof Left" fill="#EC4899" d="M 100 200 L 140 120 L 180 200 Z" />
+    <path id="tower_r" name="Tower Right" fill="#CBD5E1" d="M 330 200 L 390 200 L 390 430 L 330 430 Z" />
+    <path id="roof_r" name="Roof Right" fill="#EC4899" d="M 320 200 L 360 120 L 400 200 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 140 260 L 360 260 L 360 430 L 140 430 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 100 200 L 140 120 L 180 200 Z M 320 200 L 360 120 L 400 200 Z" />
+  </g>
+</svg>

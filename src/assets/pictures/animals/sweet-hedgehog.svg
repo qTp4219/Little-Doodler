@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Cute Hedgehog" data-category="animals" data-accent="#92400E">
+  <title>Cute Hedgehog</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Autumn Woods" fill="#FEF3C7" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="grass" name="Leaves & Moss" fill="#86EFAC" d="M 10 420 L 490 420 L 490 490 L 10 490 Z" />
+    <path id="spines" name="Spiky Coat" fill="#92400E" d="M 280 130 C 160 130 140 370 330 380 C 430 370 440 180 340 140 Z" />
+    <path id="face" name="Sweet Face" fill="#FDE68A" d="M 220 230 C 130 250 120 370 230 370 C 270 370 280 270 220 230 Z" />
+    <path id="nose" name="Nose Tip" fill="#1E293B" d="M 125 285 C 115 285 115 305 125 305 Z" />
+    <path id="paw_fl" name="Front Left Paw" fill="#D97706" d="M 175 365 L 160 425 L 195 425 L 205 370 Z" />
+    <path id="paw_fr" name="Front Right Paw" fill="#D97706" d="M 225 370 L 220 425 L 255 425 L 255 370 Z" />
+    <path id="paw_b" name="Back Little Paw" fill="#D97706" d="M 320 370 L 320 425 L 355 425 L 355 370 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 175 270 C 182 270 182 282 175 282 C 168 282 168 270 175 270 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 280 130 C 160 130 140 370 330 380 C 430 370 440 180 340 140 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 220 230 C 130 250 120 370 230 370" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 175 365 L 160 425 M 225 370 L 220 425 M 320 370 L 320 425" />
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Friendly Robot" data-category="fantasy" data-accent="#6366F1">
+  <title>Friendly Robot</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Background" fill="#EEF2FF" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="antenna" name="Antenna" fill="#F59E0B" d="M 240 50 L 260 50 L 260 110 L 240 110 Z" />
+    <path id="head" name="Robot Head" fill="#818CF8" d="M 160 110 L 340 110 L 340 220 L 160 220 Z" />
+    <path id="eye_l" name="Left Eye" fill="#FDE047" d="M 200 140 C 215 140 215 170 200 170 C 185 170 185 140 200 140 Z" />
+    <path id="eye_r" name="Right Eye" fill="#FDE047" d="M 300 140 C 315 140 315 170 300 170 C 285 170 285 140 300 140 Z" />
+    <path id="body" name="Chest Body" fill="#6366F1" d="M 150 240 L 350 240 L 340 390 L 160 390 Z" />
+    <path id="screen" name="Belly Buttons" fill="#C7D2FE" d="M 190 270 L 310 270 L 310 340 L 190 340 Z" />
+    <path id="arm_l" name="Left Arm" fill="#A5B4FC" d="M 110 270 L 150 270 L 140 360 L 100 350 Z" />
+    <path id="arm_r" name="Right Arm" fill="#A5B4FC" d="M 350 270 L 390 270 L 400 350 L 360 360 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 160 110 L 340 110 L 340 220 L 160 220 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 150 240 L 350 240 L 340 390 L 160 390 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 220 190 L 280 190" />
+  </g>
+</svg>

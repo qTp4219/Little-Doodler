@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Fire Truck" data-category="vehicles" data-accent="#DC2626">
+  <title>Fire Truck</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Background" fill="#FEF2F2" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="body" name="Truck Body" fill="#EF4444" d="M 70 200 L 430 200 C 445 200 450 230 450 280 L 450 380 L 390 380 C 380 340 320 340 310 380 L 200 380 C 190 340 130 340 120 380 L 70 380 Z" />
+    <path id="ladder" name="Ladder" fill="#CBD5E1" d="M 100 150 L 330 150 L 330 180 L 100 180 Z" />
+    <path id="siren" name="Blue Siren" fill="#38BDF8" d="M 370 170 C 360 170 360 195 380 195 C 400 195 400 170 390 170 Z" />
+    <path id="window" name="Cab Window" fill="#BAE6FD" d="M 360 220 L 430 220 L 430 275 L 360 275 Z" />
+    <path id="wheel_b" name="Back Wheel" fill="#1E293B" d="M 160 340 C 190 340 190 420 160 420 C 130 420 130 340 160 340 Z" />
+    <path id="wheel_f" name="Front Wheel" fill="#1E293B" d="M 350 340 C 380 340 380 420 350 420 C 320 420 320 340 350 340 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 70 200 L 430 200 C 445 200 450 230 450 280 L 450 380 L 390 380 C 380 340 320 340 310 380 L 200 380 C 190 340 130 340 120 380 L 70 380 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 100 150 L 330 150 L 330 180 L 100 180 Z" />
+  </g>
+</svg>

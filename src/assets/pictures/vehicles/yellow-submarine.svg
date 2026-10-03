@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Submarine" data-category="vehicles" data-accent="#FACC15">
+  <title>Submarine</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Undersea Blue" fill="#0284C7" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="hull" name="Submarine Body" fill="#FACC15" d="M 100 260 C 100 170 380 170 420 260 C 380 350 100 350 100 260 Z" />
+    <path id="tower" name="Periscope Tower" fill="#EAB308" d="M 220 130 L 260 130 L 260 200 L 220 200 Z" />
+    <path id="port1" name="Porthole 1" fill="#BAE6FD" d="M 170 230 C 150 230 150 270 170 270 C 190 270 190 230 170 230 Z" />
+    <path id="port2" name="Porthole 2" fill="#BAE6FD" d="M 250 230 C 230 230 230 270 250 270 C 270 270 270 230 250 230 Z" />
+    <path id="port3" name="Porthole 3" fill="#BAE6FD" d="M 330 230 C 310 230 310 270 330 270 C 350 270 350 230 330 230 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 100 260 C 100 170 380 170 420 260 C 380 350 100 350 100 260 Z" />
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Sun & Rainbow" data-category="nature" data-accent="#38BDF8">
+  <title>Sun & Rainbow</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="sky" name="Sky" fill="#E0F2FE" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="arc_r" name="Red Arc" fill="#F87171" d="M 30 420 A 220 220 0 0 1 470 420 L 435 420 A 185 185 0 0 0 65 420 Z" />
+    <path id="arc_o" name="Orange Arc" fill="#FB923C" d="M 65 420 A 185 185 0 0 1 435 420 L 400 420 A 150 150 0 0 0 100 420 Z" />
+    <path id="arc_y" name="Yellow Arc" fill="#FDE047" d="M 100 420 A 150 150 0 0 1 400 420 L 365 420 A 115 115 0 0 0 135 420 Z" />
+    <path id="arc_g" name="Green Arc" fill="#4ADE80" d="M 135 420 A 115 115 0 0 1 365 420 L 330 420 A 80 80 0 0 0 170 420 Z" />
+    <path id="arc_b" name="Blue Arc" fill="#60A5FA" d="M 170 420 A 80 80 0 0 1 330 420 L 295 420 A 45 45 0 0 0 205 420 Z" />
+    <path id="cloud_l" name="Left Cloud" fill="#FFFFFF" d="M 30 440 C 10 440 0 410 20 390 C 15 365 45 350 70 365 C 85 340 120 345 130 370 C 155 375 160 410 145 435 Z" />
+    <path id="cloud_r" name="Right Cloud" fill="#FFFFFF" d="M 370 440 C 350 440 340 410 360 390 C 355 365 385 350 410 365 C 425 340 460 345 470 370 C 495 375 485 435 445 455 Z" />
+    <path id="sun_face" name="Sun Face" fill="#FACC15" d="M 250 80 C 290 80 320 110 320 150 C 320 190 290 220 250 220 C 210 220 180 190 180 150 C 180 110 210 80 250 80 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 230 135 C 238 135 238 150 230 150 C 222 150 222 135 230 135 Z M 270 135 C 278 135 278 150 270 150 C 262 150 262 135 270 135 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 235 160 Q 250 180 265 160" />
+    <path fill="none" stroke="#1E293B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M 250 40 L 250 68 M 250 232 L 250 260 M 140 150 L 168 150 M 332 150 L 360 150" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 30 420 A 220 220 0 0 1 470 420 M 65 420 A 185 185 0 0 1 435 420 M 100 420 A 150 150 0 0 1 400 420" />
+  </g>
+</svg>

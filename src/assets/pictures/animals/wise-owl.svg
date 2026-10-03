@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Little Owl" data-category="animals" data-accent="#854D0E">
+  <title>Little Owl</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Night Sky" fill="#0F172A" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="branch" name="Tree Branch" fill="#78350F" d="M 10 390 L 490 390 L 490 430 L 10 430 Z" />
+    <path id="body" name="Owl Body" fill="#A16207" d="M 250 120 C 160 120 150 380 250 390 C 350 380 340 120 250 120 Z" />
+    <path id="belly" name="Belly Feathers" fill="#FEF08A" d="M 250 230 C 200 230 190 370 250 370 C 310 370 300 230 250 230 Z" />
+    <path id="eye_bg_l" name="Eye Ring Left" fill="#FFFFFF" d="M 200 180 C 170 180 170 240 200 240 C 230 240 230 180 200 180 Z" />
+    <path id="eye_bg_r" name="Eye Ring Right" fill="#FFFFFF" d="M 300 180 C 270 180 270 240 300 240 C 330 240 330 180 300 180 Z" />
+    <path id="beak" name="Beak" fill="#F97316" d="M 250 215 L 240 240 L 260 240 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 200 205 C 208 205 208 217 200 217 C 192 217 192 205 200 205 Z M 300 205 C 308 205 308 217 300 217 C 292 217 292 205 300 205 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 120 C 160 120 150 380 250 390 C 350 380 340 120 250 120 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 10 390 L 490 390 L 490 430 L 10 430 Z" />
+  </g>
+</svg>

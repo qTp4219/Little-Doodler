@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Ice Cream Cone" data-category="nature" data-accent="#EC4899">
+  <title>Ice Cream Cone</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Pastel Background" fill="#FFF1F2" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="cone" name="Waffle Cone" fill="#D97706" d="M 170 260 L 330 260 L 250 450 Z" />
+    <path id="scoop1" name="Bottom Scoop" fill="#38BDF8" d="M 250 180 C 160 180 160 280 250 280 C 340 280 340 180 250 180 Z" />
+    <path id="scoop2" name="Top Scoop" fill="#F472B6" d="M 250 90 C 170 90 170 190 250 190 C 330 190 330 90 250 90 Z" />
+    <path id="cherry" name="Top Cherry" fill="#DC2626" d="M 250 60 C 230 60 230 90 250 90 C 270 90 270 60 250 60 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 170 260 L 330 260 L 250 450 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 180 C 160 180 160 280 250 280 C 340 280 340 180 250 180 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 90 C 170 90 170 190 250 190 C 330 190 330 90 250 90 Z" />
+  </g>
+</svg>

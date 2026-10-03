@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Fast Racecar" data-category="vehicles" data-accent="#EF4444">
+  <title>Fast Racecar</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Racetrack" fill="#EFF6FF" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="spoiler" name="Rear Spoiler" fill="#1E293B" d="M 90 220 L 130 220 L 130 270 L 90 270 Z" />
+    <path id="body" name="Sleek Body" fill="#EF4444" d="M 80 270 L 180 230 L 340 230 L 430 300 L 440 360 L 70 360 Z" />
+    <path id="cockpit" name="Driver Windshield" fill="#38BDF8" d="M 200 240 L 290 240 L 320 290 L 180 290 Z" />
+    <path id="wheel_l" name="Wheel Left" fill="#1E293B" d="M 140 360 C 110 360 110 420 140 420 C 170 420 170 360 140 360 Z" />
+    <path id="wheel_r" name="Wheel Right" fill="#1E293B" d="M 360 360 C 330 360 330 420 360 420 C 390 420 390 360 360 360 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 80 270 L 180 230 L 340 230 L 430 300 L 440 360 L 70 360 Z" />
+  </g>
+</svg>

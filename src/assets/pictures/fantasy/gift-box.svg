@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Surprise Gift" data-category="fantasy" data-accent="#EC4899">
+  <title>Surprise Gift</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Party Confetti" fill="#FEF3C7" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="box" name="Box Body" fill="#38BDF8" d="M 120 220 L 380 220 L 370 440 L 130 440 Z" />
+    <path id="lid" name="Box Lid" fill="#0284C7" d="M 100 170 L 400 170 L 400 225 L 100 225 Z" />
+    <path id="ribbon_v" name="Vertical Ribbon" fill="#EC4899" d="M 230 170 L 270 170 L 270 440 L 230 440 Z" />
+    <path id="bow_l" name="Bow Left" fill="#F43F5E" d="M 230 170 C 160 110 180 80 240 150 Z" />
+    <path id="bow_r" name="Bow Right" fill="#F43F5E" d="M 270 170 C 340 110 320 80 260 150 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 120 220 L 380 220 L 370 440 L 130 440 Z M 100 170 L 400 170 L 400 225 L 100 225 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 230 170 C 160 110 180 80 240 150 Z M 270 170 C 340 110 320 80 260 150 Z" />
+  </g>
+</svg>

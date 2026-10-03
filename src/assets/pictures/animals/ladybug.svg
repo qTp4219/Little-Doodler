@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Ladybug" data-category="animals" data-accent="#EF4444">
+  <title>Ladybug</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Leaf Bed" fill="#DCFCE7" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="head" name="Black Head" fill="#1E293B" d="M 250 120 C 190 120 190 180 250 180 C 310 180 310 120 250 120 Z" />
+    <path id="wing_l" name="Wing Left" fill="#EF4444" d="M 245 170 C 130 170 120 380 245 390 Z" />
+    <path id="wing_r" name="Wing Right" fill="#EF4444" d="M 255 170 C 370 170 380 380 255 390 Z" />
+    <path id="spot1" name="Spot 1" fill="#1E293B" d="M 180 240 C 165 240 165 270 180 270 C 195 270 195 240 180 240 Z" />
+    <path id="spot2" name="Spot 2" fill="#1E293B" d="M 320 240 C 305 240 305 270 320 270 C 335 270 335 240 320 240 Z" />
+    <path id="leg_l1" name="Leg Left 1" fill="#1E293B" d="M 150 200 L 100 180 L 95 195 L 145 215 Z" />
+    <path id="leg_l2" name="Leg Left 2" fill="#1E293B" d="M 140 270 L 90 280 L 90 295 L 140 285 Z" />
+    <path id="leg_r1" name="Leg Right 1" fill="#1E293B" d="M 350 200 L 400 180 L 405 195 L 355 215 Z" />
+    <path id="leg_r2" name="Leg Right 2" fill="#1E293B" d="M 360 270 L 410 280 L 410 295 L 360 285 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 245 170 C 130 170 120 380 245 390 Z M 255 170 C 370 170 380 380 255 390 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 230 120 L 210 80 M 270 120 L 290 80" />
+  </g>
+</svg>

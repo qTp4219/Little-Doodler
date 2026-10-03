@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Sailboat" data-category="vehicles" data-accent="#F97316">
+  <title>Sailboat</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sea Sky" fill="#E0F2FE" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="water" name="Blue Waves" fill="#0284C7" d="M 10 390 Q 120 360 250 380 Q 380 360 490 390 L 490 490 L 10 490 Z" />
+    <path id="hull" name="Boat Hull" fill="#92400E" d="M 120 330 L 380 330 L 330 400 L 170 400 Z" />
+    <path id="sail_main" name="Big Sail" fill="#F97316" d="M 240 100 L 240 310 L 370 310 Z" />
+    <path id="sail_small" name="Front Sail" fill="#FDE047" d="M 220 140 L 220 310 L 130 310 Z" />
+    <path id="flag" name="Mast Flag" fill="#EF4444" d="M 240 80 L 270 90 L 240 100 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 120 330 L 380 330 L 330 400 L 170 400 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 240 100 L 240 310 L 370 310 Z M 220 140 L 220 310 L 130 310 Z" />
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Sweet Red Apple" data-category="nature" data-accent="#EF4444">
+  <title>Sweet Red Apple</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Kitchen Table" fill="#FEF9C3" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="apple" name="Apple Body" fill="#EF4444" d="M 250 150 C 150 140 110 240 140 360 C 160 440 230 450 250 420 C 270 450 340 440 360 360 C 390 240 350 140 250 150 Z" />
+    <path id="stem" name="Stem" fill="#78350F" d="M 245 80 L 255 80 L 255 150 L 245 150 Z" />
+    <path id="leaf" name="Leaf" fill="#22C55E" d="M 255 110 C 310 80 340 120 280 140 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M 250 150 C 150 140 110 240 140 360 C 160 440 230 450 250 420 C 270 450 340 440 360 360 C 390 240 350 140 250 150 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 245 80 L 255 80 L 255 150 L 245 150 Z" />
+  </g>
+</svg>

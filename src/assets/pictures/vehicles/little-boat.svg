@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Sailboat on Waves" data-category="vehicles" data-accent="#0EA5E9">
+  <title>Sailboat on Waves</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="sky" name="Sky" fill="#E0F2FE" d="M 10 10 L 490 10 L 490 350 L 10 350 Z" />
+    <path id="sun" name="Sun" fill="#FDE047" d="M 90 40 C 130 40 130 100 90 100 C 50 100 50 40 90 40 Z" />
+    <path id="sail_main" name="Main Sail" fill="#EF4444" d="M 255 80 L 255 270 L 380 270 Z" />
+    <path id="sail_front" name="Front Sail" fill="#F59E0B" d="M 240 110 L 240 270 L 140 270 Z" />
+    <path id="boat_hull" name="Boat Hull" fill="#3B82F6" d="M 100 290 L 400 290 L 350 370 L 150 370 Z" />
+    <path id="waves_back" name="Back Waves" fill="#38BDF8" d="M 10 340 Q 120 320 240 340 Q 360 360 490 340 L 490 490 L 10 490 Z" />
+    <path id="waves_front" name="Front Waves" fill="#0284C7" d="M 10 390 Q 140 370 280 390 Q 420 410 490 390 L 490 490 L 10 490 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 255 80 L 255 270 L 380 270 Z M 240 110 L 240 270 L 140 270 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 100 290 L 400 290 L 350 370 L 150 370 Z" />
+    <path fill="#78350F" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 245 70 L 252 70 L 252 290 L 245 290 Z" />
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Fluffy Sheep" data-category="animals" data-accent="#64748B">
+  <title>Fluffy Sheep</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Meadow Sky" fill="#F0F9FF" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="grass" name="Green Field" fill="#86EFAC" d="M 10 420 L 490 420 L 490 490 L 10 490 Z" />
+    <path id="body" name="Wool Cloud" fill="#F8FAFC" d="M 250 150 C 150 140 110 220 130 300 C 110 380 200 420 250 410 C 300 420 390 380 370 300 C 390 220 350 140 250 150 Z" />
+    <path id="face" name="Face" fill="#FCD34D" d="M 250 190 C 200 190 190 280 250 290 C 310 280 300 190 250 190 Z" />
+    <path id="ear_l" name="Ear Left" fill="#F59E0B" d="M 195 210 C 160 210 160 240 195 240 Z" />
+    <path id="ear_r" name="Ear Right" fill="#F59E0B" d="M 305 210 C 340 210 340 240 305 240 Z" />
+    <path id="leg1" name="Front Left Leg" fill="#1E293B" d="M 180 390 L 180 445 L 210 445 L 210 395 Z" />
+    <path id="leg2" name="Front Right Leg" fill="#1E293B" d="M 225 395 L 225 445 L 255 445 L 255 395 Z" />
+    <path id="leg3" name="Back Left Leg" fill="#1E293B" d="M 270 395 L 270 445 L 300 445 L 300 395 Z" />
+    <path id="leg4" name="Back Right Leg" fill="#1E293B" d="M 315 390 L 315 445 L 345 445 L 345 390 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 225 230 C 230 230 230 240 225 240 C 220 240 220 230 225 230 Z M 275 230 C 280 230 280 240 275 240 C 270 240 270 230 275 230 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M 250 255 Q 250 268 240 268 M 250 255 Q 250 268 260 268" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 250 190 C 200 190 190 280 250 290 C 310 280 300 190 250 190 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 150 C 150 140 110 220 130 300 C 110 380 200 420 250 410 C 300 420 390 380 370 300 C 390 220 350 140 250 150 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 180 390 L 180 445 M 225 395 L 225 445 M 270 395 L 270 445 M 315 390 L 315 445" />
+  </g>
+</svg>

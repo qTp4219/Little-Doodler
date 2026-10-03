@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Space Rocket" data-category="fantasy" data-accent="#3B82F6">
+  <title>Space Rocket</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="space" name="Deep Space" fill="#1E1B4B" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="flame" name="Booster Flame" fill="#F59E0B" d="M 210 390 L 250 480 L 290 390 Z" />
+    <path id="fin_l" name="Left Fin" fill="#EC4899" d="M 180 300 L 120 370 L 190 380 Z" />
+    <path id="fin_r" name="Right Fin" fill="#EC4899" d="M 320 300 L 380 370 L 310 380 Z" />
+    <path id="body" name="Rocket Body" fill="#F8FAFC" d="M 250 70 C 190 150 180 310 190 390 L 310 390 C 320 310 310 150 250 70 Z" />
+    <path id="nose" name="Nose Cone" fill="#EF4444" d="M 250 70 C 225 110 205 150 200 170 L 300 170 C 295 150 275 110 250 70 Z" />
+    <path id="window" name="Window" fill="#38BDF8" d="M 250 220 C 275 220 275 260 250 260 C 225 260 225 220 250 220 Z" />
+    <path id="star_1" name="Big Star" fill="#FDE047" d="M 100 80 L 110 100 L 130 110 L 110 120 L 100 140 L 90 120 L 70 110 L 90 100 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M 250 70 C 190 150 180 310 190 390 L 310 390 C 320 310 310 150 250 70 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 200 170 L 300 170" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 250 220 C 275 220 275 260 250 260 C 225 260 225 220 250 220 Z" />
+  </g>
+</svg>

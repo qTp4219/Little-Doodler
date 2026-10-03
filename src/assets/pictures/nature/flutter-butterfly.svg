@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Magic Butterfly" data-category="nature" data-accent="#A855F7">
+  <title>Magic Butterfly</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Air" fill="#FAF5FF" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="wing_tl" name="Top Left Wing" fill="#C084FC" d="M 230 220 C 170 120 70 100 60 190 C 50 270 160 310 230 260 Z" />
+    <path id="spot_tl" name="Spot TL" fill="#FDE047" d="M 140 180 C 170 180 170 230 140 230 C 110 230 110 180 140 180 Z" />
+    <path id="wing_bl" name="Bottom Left Wing" fill="#E879F9" d="M 230 270 C 150 280 100 370 140 430 C 180 470 235 390 240 330 Z" />
+    <path id="wing_tr" name="Top Right Wing" fill="#C084FC" d="M 270 220 C 330 120 430 100 440 190 C 450 270 340 310 270 260 Z" />
+    <path id="spot_tr" name="Spot TR" fill="#FDE047" d="M 360 180 C 390 180 390 230 360 230 C 330 230 330 180 360 180 Z" />
+    <path id="wing_br" name="Bottom Right Wing" fill="#E879F9" d="M 270 270 C 350 280 400 370 360 430 C 320 470 265 390 260 330 Z" />
+    <path id="body" name="Body" fill="#FACC15" d="M 250 170 C 230 170 230 380 250 380 C 270 380 270 170 250 170 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 240 130 Q 210 90 190 95 M 260 130 Q 290 90 310 95" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 230 220 C 170 120 70 100 60 190 C 50 270 160 310 230 260 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 270 220 C 330 120 430 100 440 190 C 450 270 340 310 270 260 Z" />
+  </g>
+</svg>

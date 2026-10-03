@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Playful Dolphin" data-category="animals" data-accent="#0EA5E9">
+  <title>Playful Dolphin</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sunny Ocean" fill="#E0F2FE" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="waves" name="Blue Waves" fill="#0284C7" d="M 10 390 Q 120 360 250 380 Q 380 360 490 390 L 490 490 L 10 490 Z" />
+    <path id="body" name="Dolphin Body" fill="#38BDF8" d="M 110 230 C 160 130 320 120 410 240 C 430 270 410 290 370 260 C 290 200 180 250 110 230 Z" />
+    <path id="belly" name="Light Belly" fill="#F0F9FF" d="M 110 230 C 180 250 290 200 370 260 C 330 280 240 280 160 260 Z" />
+    <path id="fin_top" name="Dorsal Fin" fill="#0284C7" d="M 250 135 C 240 85 285 95 295 145 Z" />
+    <path id="flipper_l" name="Flipper Hand" fill="#0284C7" d="M 200 230 C 180 270 220 280 230 240 Z" />
+    <path id="tail_flukes" name="Tail Flukes" fill="#0284C7" d="M 405 245 C 445 220 455 280 415 260 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 150 205 C 156 205 156 215 150 215 C 144 215 144 205 150 205 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M 140 220 Q 160 230 175 220" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 110 230 C 160 130 320 120 410 240 C 430 270 410 290 370 260" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 250 135 C 240 85 285 95 295 145 Z" />
+  </g>
+</svg>

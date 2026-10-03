@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Singing Bird" data-category="animals" data-accent="#38BDF8">
+  <title>Singing Bird</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Blue Sky" fill="#F0F9FF" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="branch" name="Branch" fill="#92400E" d="M 10 390 L 490 390 L 490 420 L 10 420 Z" />
+    <path id="head" name="Bird Head" fill="#38BDF8" d="M 210 160 C 160 160 160 240 210 240 C 260 240 260 160 210 160 Z" />
+    <path id="beak" name="Beak" fill="#F97316" d="M 160 190 L 110 200 L 160 215 Z" />
+    <path id="body" name="Bird Body" fill="#0284C7" d="M 210 230 C 150 250 170 380 270 370 C 370 360 410 270 330 250 Z" />
+    <path id="wing" name="Wing" fill="#FACC15" d="M 250 260 C 220 280 240 340 310 320 C 330 290 310 260 250 260 Z" />
+    <path id="foot_l" name="Left Foot Claws" fill="#F97316" d="M 220 370 L 220 395 M 210 395 L 230 395" />
+    <path id="foot_r" name="Right Foot Claws" fill="#F97316" d="M 260 370 L 260 395 M 250 395 L 270 395" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 200 190 C 205 190 205 200 200 200 C 195 200 195 190 200 190 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 160 190 L 110 200 L 160 215 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 210 160 C 160 160 160 240 210 240 C 260 240 260 160 210 160 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 210 230 C 150 250 170 380 270 370 C 370 360 410 270 330 250 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 220 370 L 220 395 M 260 370 L 260 395" />
+  </g>
+</svg>

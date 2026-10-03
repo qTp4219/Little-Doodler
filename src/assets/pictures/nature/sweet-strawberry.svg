@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Red Strawberry" data-category="nature" data-accent="#EF4444">
+  <title>Red Strawberry</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Picnic Blanket" fill="#FEF2F2" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="berry" name="Strawberry Body" fill="#EF4444" d="M 250 140 C 140 140 120 300 250 430 C 380 300 360 140 250 140 Z" />
+    <path id="stem" name="Green Stem" fill="#15803D" d="M 250 80 L 240 130 L 260 130 Z" />
+    <path id="leaf_l" name="Leaf Left" fill="#22C55E" d="M 250 130 C 170 100 170 150 250 150 Z" />
+    <path id="leaf_r" name="Leaf Right" fill="#22C55E" d="M 250 130 C 330 100 330 150 250 150 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 140 C 140 140 120 300 250 430 C 380 300 360 140 250 140 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 250 130 C 170 100 170 150 250 150 Z M 250 130 C 330 100 330 150 250 150 Z" />
+  </g>
+</svg>

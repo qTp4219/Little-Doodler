@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="School Bus" data-category="vehicles" data-accent="#EAB308">
+  <title>School Bus</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Road Sky" fill="#EFF6FF" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="body" name="Bus Body" fill="#FACC15" d="M 80 190 L 420 190 L 420 370 L 80 370 Z" />
+    <path id="win1" name="Window 1" fill="#BAE6FD" d="M 100 210 L 160 210 L 160 270 L 100 270 Z" />
+    <path id="win2" name="Window 2" fill="#BAE6FD" d="M 180 210 L 240 210 L 240 270 L 180 270 Z" />
+    <path id="win3" name="Window 3" fill="#BAE6FD" d="M 260 210 L 320 210 L 320 270 L 260 270 Z" />
+    <path id="win4" name="Window 4" fill="#BAE6FD" d="M 340 210 L 400 210 L 400 270 L 340 270 Z" />
+    <path id="stripe" name="Bus Stripe" fill="#1E293B" d="M 80 290 L 420 290 L 420 315 L 80 315 Z" />
+    <path id="wheel_l" name="Wheel Left" fill="#1E293B" d="M 150 370 C 120 370 120 430 150 430 C 180 430 180 370 150 370 Z" />
+    <path id="wheel_r" name="Wheel Right" fill="#1E293B" d="M 350 370 C 320 370 320 430 350 430 C 380 430 380 370 350 370 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 80 190 L 420 190 L 420 370 L 80 370 Z" />
+  </g>
+</svg>

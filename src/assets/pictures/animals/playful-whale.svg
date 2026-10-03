@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Blue Whale" data-category="animals" data-accent="#0284C7">
+  <title>Blue Whale</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Ocean Sky" fill="#E0F2FE" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="water" name="Ocean Waves" fill="#0284C7" d="M 10 370 Q 120 340 250 360 Q 380 340 490 370 L 490 490 L 10 490 Z" />
+    <path id="spout" name="Water Spout" fill="#38BDF8" d="M 190 100 C 150 60 210 40 210 160 C 230 40 290 60 250 100 Z" />
+    <path id="body" name="Whale Body" fill="#0EA5E9" d="M 120 260 C 120 160 280 150 380 200 C 430 220 460 210 460 250 C 440 280 390 280 350 310 C 280 360 140 350 120 260 Z" />
+    <path id="belly" name="Whale Belly" fill="#BAE6FD" d="M 120 260 C 140 330 260 340 330 310 C 280 340 180 330 120 260 Z" />
+    <path id="fin" name="Fin" fill="#0284C7" d="M 230 280 C 200 320 220 350 250 320 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 160 230 C 168 230 168 242 160 242 C 152 242 152 230 160 230 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 160 260 Q 185 275 210 260" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 120 260 C 120 160 280 150 380 200 C 430 220 460 210 460 250 C 440 280 390 280 350 310 C 280 360 140 350 120 260 Z" />
+  </g>
+</svg>

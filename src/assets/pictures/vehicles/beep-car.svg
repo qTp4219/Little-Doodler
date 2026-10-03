@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Beep Beep Car" data-category="vehicles" data-accent="#EF4444">
+  <title>Beep Beep Car</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sky" fill="#F0FDF4" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="road" name="Road" fill="#94A3B8" d="M 10 390 L 490 390 L 490 490 L 10 490 Z" />
+    <path id="body" name="Car Body" fill="#EF4444" d="M 60 320 C 60 290 80 270 120 270 L 150 270 C 170 190 230 170 300 170 C 360 170 390 200 410 270 L 440 270 C 465 270 475 295 475 320 L 475 360 C 475 380 460 380 440 380 L 390 380 C 380 340 320 340 310 380 L 190 380 C 180 340 120 340 110 380 L 70 380 C 60 380 60 360 60 320 Z" />
+    <path id="win_f" name="Front Window" fill="#BAE6FD" d="M 295 190 L 375 260 L 295 260 Z" />
+    <path id="win_b" name="Back Window" fill="#BAE6FD" d="M 275 190 L 275 260 L 180 260 C 195 210 230 195 275 190 Z" />
+    <path id="headlight" name="Headlight" fill="#FDE047" d="M 445 285 C 465 285 475 295 470 315 C 460 320 445 320 445 285 Z" />
+    <path id="wheel_f" name="Front Wheel" fill="#334155" d="M 350 330 C 385 330 385 410 350 410 C 315 410 315 330 350 330 Z" />
+    <path id="wheel_b" name="Back Wheel" fill="#334155" d="M 150 330 C 185 330 185 410 150 410 C 115 410 115 330 150 330 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 60 320 C 60 290 80 270 120 270 L 150 270 C 170 190 230 170 300 170 C 360 170 390 200 410 270 L 440 270 C 465 270 475 295 475 320 L 475 360 C 475 380 460 380 440 380 L 390 380 C 380 340 320 340 310 380 L 190 380 C 180 340 120 340 110 380 L 70 380 C 60 380 60 360 60 320 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 295 190 L 375 260 L 295 260 Z M 275 190 L 275 260 L 180 260 C 195 210 230 195 275 190 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 350 330 C 385 330 385 410 350 410 C 315 410 315 330 350 330 Z M 150 330 C 185 330 185 410 150 410 C 115 410 115 330 150 330 Z" />
+  </g>
+</svg>

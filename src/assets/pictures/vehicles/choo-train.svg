@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Choo Choo Train" data-category="vehicles" data-accent="#3B82F6">
+  <title>Choo Choo Train</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sky" fill="#EFF6FF" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="cab" name="Train Cab" fill="#EF4444" d="M 80 170 L 200 170 L 200 380 L 80 380 Z" />
+    <path id="cab_roof" name="Roof" fill="#F97316" d="M 60 140 L 220 140 L 200 170 L 80 170 Z" />
+    <path id="window" name="Cab Window" fill="#BAE6FD" d="M 105 190 L 175 190 L 175 250 L 105 250 Z" />
+    <path id="boiler" name="Boiler" fill="#3B82F6" d="M 200 230 L 400 230 L 400 380 L 200 380 Z" />
+    <path id="chimney" name="Chimney" fill="#F59E0B" d="M 330 160 L 370 160 L 370 230 L 330 230 Z" />
+    <path id="smoke" name="Puff of Smoke" fill="#E2E8F0" d="M 350 140 C 330 110 390 80 370 50 C 410 70 420 120 370 140 Z" />
+    <path id="wheel_1" name="Big Wheel" fill="#FACC15" d="M 140 340 C 180 340 180 440 140 440 C 100 440 100 340 140 340 Z" />
+    <path id="wheel_2" name="Front Wheel" fill="#FACC15" d="M 270 370 C 300 370 300 440 270 440 C 240 440 240 370 270 370 Z" />
+    <path id="wheel_3" name="Small Wheel" fill="#FACC15" d="M 360 370 C 390 370 390 440 360 440 C 330 440 330 370 360 370 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 80 170 L 200 170 L 200 380 L 80 380 Z M 200 230 L 400 230 L 400 380 L 200 380 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 330 160 L 370 160 L 370 230 L 330 230 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 140 340 C 180 340 180 440 140 440 C 100 440 100 340 140 340 Z" />
+  </g>
+</svg>

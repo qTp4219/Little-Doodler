@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Happy Cloud" data-category="nature" data-accent="#38BDF8">
+  <title>Happy Cloud</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sky" fill="#BAE6FD" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="cloud" name="Puffy Cloud" fill="#FFFFFF" d="M 180 330 C 110 330 110 240 170 240 C 170 170 270 150 300 210 C 350 180 410 240 380 310 C 410 350 360 380 320 360 C 270 380 210 370 180 330 Z" />
+    <path id="blush_l" name="Cheek Left" fill="#F472B6" d="M 200 280 C 190 280 190 295 200 295 C 210 295 210 280 200 280 Z" />
+    <path id="blush_r" name="Cheek Right" fill="#F472B6" d="M 300 280 C 290 280 290 295 300 295 C 310 295 310 280 300 280 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 220 260 C 225 260 225 270 220 270 C 215 270 215 260 220 260 Z M 280 260 C 285 260 285 270 280 270 C 275 270 275 260 280 260 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 235 285 Q 250 300 265 285" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 180 330 C 110 330 110 240 170 240 C 170 170 270 150 300 210 C 350 180 410 240 380 310 C 410 350 360 380 320 360 C 270 380 210 370 180 330 Z" />
+  </g>
+</svg>

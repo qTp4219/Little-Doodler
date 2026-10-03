@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Cute Kitten" data-category="animals" data-accent="#EC4899">
+  <title>Cute Kitten</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Background" fill="#FDF2F8" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="rug" name="Rug" fill="#E0E7FF" d="M 60 400 C 120 360 380 360 440 400 C 470 430 440 470 380 475 C 250 485 110 475 70 450 C 40 430 40 410 60 400 Z" />
+    <path id="tail" name="Tail" fill="#FDBA74" d="M 340 360 C 420 360 450 280 430 220 C 415 180 390 200 395 240 C 400 280 370 320 330 330 Z" />
+    <path id="body" name="Body" fill="#FDBA74" d="M 160 300 C 160 250 210 240 250 240 C 290 240 340 250 340 300 C 345 380 330 420 250 420 C 170 420 155 380 160 300 Z" />
+    <path id="belly" name="Belly" fill="#FFFBEB" d="M 200 320 C 200 280 230 270 250 270 C 270 270 300 280 300 320 C 300 380 270 400 250 400 C 230 400 200 380 200 320 Z" />
+    <path id="ear_l" name="Left Ear" fill="#FDBA74" d="M 150 160 L 140 70 L 220 110 Z" />
+    <path id="ear_r" name="Right Ear" fill="#FDBA74" d="M 350 160 L 360 70 L 280 110 Z" />
+    <path id="head" name="Head" fill="#FDBA74" d="M 250 100 C 160 100 135 150 140 210 C 145 270 200 290 250 290 C 300 290 355 270 360 210 C 365 150 340 100 250 100 Z" />
+    <path id="cheeks" name="Cheeks" fill="#F472B6" d="M 170 220 C 185 220 185 240 170 240 C 155 240 155 220 170 220 Z M 330 220 C 345 220 345 240 330 240 C 315 240 315 220 330 220 Z" />
+    <path id="paw_l" name="Front Left Paw" fill="#FFFFFF" d="M 195 375 C 175 375 175 430 220 430 C 235 430 235 375 195 375 Z" />
+    <path id="paw_r" name="Front Right Paw" fill="#FFFFFF" d="M 265 375 C 245 375 245 430 290 430 C 305 430 305 375 265 375 Z" />
+    <path id="yarn" name="Yarn" fill="#A855F7" d="M 380 390 C 420 390 420 440 380 440 C 340 440 340 390 380 390 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 200 190 C 215 190 215 215 200 215 C 185 215 185 190 200 190 Z M 300 190 C 315 190 315 215 300 215 C 285 215 285 190 300 190 Z" />
+    <path fill="#EC4899" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 250 215 L 243 226 L 257 226 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 180 215 L 120 210 M 180 225 L 120 230 M 320 215 L 380 210 M 320 225 L 380 230" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 150 160 L 140 70 L 220 110 M 350 160 L 360 70 L 280 110" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 100 C 160 100 135 150 140 210 C 145 270 200 290 250 290 C 300 290 355 270 360 210 C 365 150 340 100 250 100 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 195 375 C 175 375 175 430 220 430 M 265 375 C 245 375 245 430 290 430" />
+  </g>
+</svg>

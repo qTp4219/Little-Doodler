@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Happy Frog" data-category="animals" data-accent="#22C55E">
+  <title>Happy Frog</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Pond Sky" fill="#F0FDF4" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="lilypad" name="Lilypad" fill="#16A34A" d="M 50 400 C 120 370 380 370 450 400 C 470 440 430 470 250 470 C 70 470 30 440 50 400 Z" />
+    <path id="eye_l" name="Eye Left" fill="#4ADE80" d="M 170 120 C 130 120 130 200 170 200 C 210 200 210 120 170 120 Z" />
+    <path id="eye_r" name="Eye Right" fill="#4ADE80" d="M 330 120 C 290 120 290 200 330 200 C 370 200 370 120 330 120 Z" />
+    <path id="head" name="Head" fill="#4ADE80" d="M 250 160 C 150 160 120 240 140 290 C 160 340 340 340 360 290 C 380 240 350 160 250 160 Z" />
+    <path id="belly" name="Belly" fill="#FEF08A" d="M 250 250 C 190 250 180 330 250 330 C 320 330 310 250 250 250 Z" />
+    <path id="arm_l" name="Front Hand Left" fill="#22C55E" d="M 190 320 L 180 390 L 210 390 L 210 320 Z" />
+    <path id="arm_r" name="Front Hand Right" fill="#22C55E" d="M 290 320 L 290 390 L 320 390 L 310 320 Z" />
+    <path id="leg_l" name="Jumping Leg Left" fill="#16A34A" d="M 130 300 C 70 310 70 410 140 400 Z" />
+    <path id="leg_r" name="Jumping Leg Right" fill="#16A34A" d="M 370 300 C 430 310 430 410 360 400 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 170 145 C 180 145 180 160 170 160 C 160 160 160 145 170 145 Z M 330 145 C 340 145 340 160 330 160 C 320 160 320 145 330 145 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 200 230 Q 250 270 300 230" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 170 120 C 130 120 130 200 170 200 C 210 200 210 120 170 120 Z M 330 120 C 290 120 290 200 330 200 C 370 200 370 120 330 120 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 160 C 150 160 120 240 140 290 C 160 340 340 340 360 290 C 380 240 350 160 250 160 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 190 320 L 180 390 L 210 390 M 290 320 L 290 390 L 320 390" />
+  </g>
+</svg>

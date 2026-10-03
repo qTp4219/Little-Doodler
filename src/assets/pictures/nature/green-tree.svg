@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Big Tree" data-category="nature" data-accent="#15803D">
+  <title>Big Tree</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sunny Sky" fill="#EFF6FF" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="trunk" name="Wood Trunk" fill="#78350F" d="M 220 250 L 280 250 L 300 450 L 200 450 Z" />
+    <path id="leaves" name="Green Canopy" fill="#22C55E" d="M 250 80 C 130 80 110 280 250 280 C 390 280 370 80 250 80 Z" />
+    <path id="apple1" name="Apple 1" fill="#EF4444" d="M 200 170 C 185 170 185 195 200 195 C 215 195 215 170 200 170 Z" />
+    <path id="apple2" name="Apple 2" fill="#EF4444" d="M 300 170 C 285 170 285 195 300 195 C 315 195 315 170 300 170 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 80 C 130 80 110 280 250 280 C 390 280 370 80 250 80 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 220 250 L 280 250 L 300 450 L 200 450 Z" />
+  </g>
+</svg>

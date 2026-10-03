@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Duckling" data-category="animals" data-accent="#FACC15">
+  <title>Duckling</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Pond" fill="#E0F2FE" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="water" name="Water" fill="#38BDF8" d="M 10 390 Q 120 370 250 380 Q 380 370 490 390 L 490 490 L 10 490 Z" />
+    <path id="head" name="Head" fill="#FACC15" d="M 210 120 C 150 120 150 220 220 220 C 280 220 280 120 210 120 Z" />
+    <path id="beak" name="Beak" fill="#FB923C" d="M 160 170 C 110 175 110 205 160 210 Z" />
+    <path id="body" name="Body" fill="#FACC15" d="M 220 210 C 140 220 150 380 270 380 C 370 380 430 310 410 260 C 370 260 320 280 280 250 Z" />
+    <path id="wing" name="Wing" fill="#F59E0B" d="M 260 260 C 230 280 240 340 310 330 C 340 310 330 260 260 260 Z" />
+    <path id="foot_l" name="Left Webbed Foot" fill="#FB923C" d="M 220 380 L 200 420 L 235 420 Z" />
+    <path id="foot_r" name="Right Webbed Foot" fill="#FB923C" d="M 270 380 L 255 420 L 290 420 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 195 155 C 203 155 203 167 195 167 C 187 167 187 155 195 155 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 160 170 C 110 175 110 205 160 210 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 210 120 C 150 120 150 220 220 220 C 280 220 280 120 210 120 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 220 210 C 140 220 150 380 270 380 C 370 380 430 310 410 260 C 370 260 320 280 280 250 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 220 380 L 200 420 L 235 420 Z M 270 380 L 255 420 L 290 420 Z" />
+  </g>
+</svg>

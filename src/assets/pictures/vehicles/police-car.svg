@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Police Car" data-category="vehicles" data-accent="#3B82F6">
+  <title>Police Car</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="City" fill="#F8FAFC" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="body" name="Car Body" fill="#FFFFFF" d="M 90 260 L 150 190 L 350 190 L 410 260 L 430 330 L 70 330 Z" />
+    <path id="stripe" name="Blue Stripe" fill="#1D4ED8" d="M 70 290 L 430 290 L 430 330 L 70 330 Z" />
+    <path id="siren" name="Siren Light" fill="#EF4444" d="M 230 160 L 270 160 L 270 190 L 230 190 Z" />
+    <path id="wheel_l" name="Wheel Left" fill="#1E293B" d="M 150 330 C 120 330 120 390 150 390 C 180 390 180 330 150 330 Z" />
+    <path id="wheel_r" name="Wheel Right" fill="#1E293B" d="M 350 330 C 320 330 320 390 350 390 C 380 390 380 330 350 330 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 90 260 L 150 190 L 350 190 L 410 260 L 430 330 L 70 330 Z" />
+  </g>
+</svg>

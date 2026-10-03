@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Smiling Star" data-category="fantasy" data-accent="#FACC15">
+  <title>Smiling Star</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Night Sky" fill="#0F172A" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="star_body" name="Star Body" fill="#FACC15" d="M 250 50 L 300 180 L 440 190 L 330 280 L 370 420 L 250 340 L 130 420 L 170 280 L 60 190 L 200 180 Z" />
+    <path id="blush_l" name="Cheek Left" fill="#F472B6" d="M 190 260 C 205 260 205 280 190 280 C 175 280 175 260 190 260 Z" />
+    <path id="blush_r" name="Cheek Right" fill="#F472B6" d="M 310 260 C 325 260 325 280 310 280 C 295 280 295 260 310 260 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 215 220 C 223 220 223 235 215 235 C 207 235 207 220 215 220 Z M 285 220 C 293 220 293 235 285 235 C 277 235 277 220 285 220 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 235 250 Q 250 268 265 250" />
+    <path fill="none" stroke="#1E293B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" d="M 250 50 L 300 180 L 440 190 L 330 280 L 370 420 L 250 340 L 130 420 L 170 280 L 60 190 L 200 180 Z" />
+  </g>
+</svg>

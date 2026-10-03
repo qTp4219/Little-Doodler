@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Cute Panda" data-category="animals" data-accent="#1E293B">
+  <title>Cute Panda</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Bamboo Forest" fill="#DCFCE7" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="ear_l" name="Left Ear" fill="#1E293B" d="M 160 100 C 120 100 120 170 160 170 Z" />
+    <path id="ear_r" name="Right Ear" fill="#1E293B" d="M 340 100 C 380 100 380 170 340 170 Z" />
+    <path id="head" name="Head" fill="#FFFFFF" d="M 250 110 C 160 110 150 230 250 240 C 350 230 340 110 250 110 Z" />
+    <path id="eye_patch_l" name="Eye Patch Left" fill="#1E293B" d="M 200 155 C 180 155 180 195 200 195 C 220 195 220 155 200 155 Z" />
+    <path id="eye_patch_r" name="Eye Patch Right" fill="#1E293B" d="M 300 155 C 280 155 280 195 300 195 C 320 195 320 155 300 155 Z" />
+    <path id="body" name="Panda Body" fill="#FFFFFF" d="M 250 240 C 160 240 150 390 250 400 C 350 390 340 240 250 240 Z" />
+    <path id="arm_l" name="Left Arm & Paw" fill="#1E293B" d="M 165 250 C 115 260 115 340 175 320 Z" />
+    <path id="arm_r" name="Right Arm & Paw" fill="#1E293B" d="M 335 250 C 385 260 385 340 325 320 Z" />
+    <path id="bamboo" name="Green Bamboo" fill="#22C55E" d="M 240 250 L 260 250 L 255 370 L 235 370 Z" />
+    <path id="foot_l" name="Left Leg Paw" fill="#1E293B" d="M 190 380 C 145 380 145 440 205 440 Z" />
+    <path id="foot_r" name="Right Leg Paw" fill="#1E293B" d="M 310 380 C 355 380 355 440 295 440 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#FFFFFF" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 200 170 C 205 170 205 180 200 180 C 195 180 195 170 200 170 Z M 300 170 C 305 170 305 180 300 180 C 295 180 295 170 300 170 Z" />
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 250 195 L 243 205 L 257 205 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M 250 205 Q 250 215 240 215 M 250 205 Q 250 215 260 215" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 110 C 160 110 150 230 250 240 C 350 230 340 110 250 110 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 250 240 C 160 240 150 390 250 400 C 350 390 340 240 250 240 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 190 380 C 145 380 145 440 205 440 Z M 310 380 C 355 380 355 440 295 440 Z" />
+  </g>
+</svg>

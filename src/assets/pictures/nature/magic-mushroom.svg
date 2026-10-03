@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Forest Mushroom" data-category="nature" data-accent="#EF4444">
+  <title>Forest Mushroom</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Forest Glade" fill="#ECFDF5" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="grass" name="Grass" fill="#86EFAC" d="M 10 410 L 490 410 L 490 490 L 10 490 Z" />
+    <path id="stem" name="Mushroom Stem" fill="#FEF3C7" d="M 200 240 L 300 240 L 320 420 L 180 420 Z" />
+    <path id="cap" name="Mushroom Cap" fill="#EF4444" d="M 100 260 C 100 110 400 110 400 260 Z" />
+    <path id="spot1" name="Polka Dot 1" fill="#FFFFFF" d="M 200 160 C 180 160 180 200 200 200 C 220 200 220 160 200 160 Z" />
+    <path id="spot2" name="Polka Dot 2" fill="#FFFFFF" d="M 300 160 C 280 160 280 200 300 200 C 320 200 320 160 300 160 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 100 260 C 100 110 400 110 400 260 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 200 240 L 300 240 L 320 420 L 180 420 Z" />
+  </g>
+</svg>

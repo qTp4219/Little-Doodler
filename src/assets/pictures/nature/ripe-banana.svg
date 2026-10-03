@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Yellow Banana" data-category="nature" data-accent="#FACC15">
+  <title>Yellow Banana</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Sunny Kitchen" fill="#FEF9C3" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="banana" name="Banana Peel" fill="#FACC15" d="M 140 140 C 100 280 240 400 380 360 C 260 360 170 270 180 170 Z" />
+    <path id="tip_t" name="Top Tip" fill="#78350F" d="M 140 140 L 120 120 L 140 110 L 160 130 Z" />
+    <path id="tip_b" name="Bottom Tip" fill="#78350F" d="M 380 360 L 400 370 L 390 390 L 370 380 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 140 140 C 100 280 240 400 380 360 C 260 360 170 270 180 170 Z" />
+  </g>
+</svg>

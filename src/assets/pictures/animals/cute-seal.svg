@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Happy Baby Seal" data-category="animals" data-accent="#38BDF8">
+  <title>Happy Baby Seal</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Polar Sky" fill="#E0F2FE" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="ice" name="Ice Berg" fill="#BAE6FD" d="M 50 400 C 150 370 350 370 450 400 L 490 490 L 10 490 Z" />
+    <path id="ball" name="Beach Ball" fill="#EF4444" d="M 150 80 C 110 80 110 160 150 160 C 190 160 190 80 150 80 Z" />
+    <path id="ball_stripe" name="Ball Stripe" fill="#FACC15" d="M 150 80 C 130 100 130 140 150 160 C 170 140 170 100 150 80 Z" />
+    <path id="body" name="Seal Body" fill="#F8FAFC" d="M 190 190 C 140 210 130 380 280 380 C 390 380 430 320 410 270 C 380 270 330 330 240 310 Z" />
+    <path id="head" name="Seal Face" fill="#FFFFFF" d="M 200 160 C 140 160 140 250 200 250 C 260 250 260 160 200 160 Z" />
+    <path id="flipper_f" name="Front Flipper Hand" fill="#E2E8F0" d="M 220 280 C 190 310 200 370 250 350 Z" />
+    <path id="tail_fluke" name="Tail Flippers" fill="#E2E8F0" d="M 400 270 C 440 240 450 300 420 310 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 185 190 C 192 190 192 202 185 202 C 178 202 178 190 185 190 Z" />
+    <path fill="#1E293B" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M 160 200 C 166 200 166 208 160 208 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M 155 208 L 130 205 M 155 214 L 130 218 M 175 208 L 200 205 M 175 214 L 200 218" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 150 80 C 110 80 110 160 150 160 C 190 160 190 80 150 80 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 200 160 C 140 160 140 250 200 250 C 260 250 260 160 200 160 Z" />
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 190 190 C 140 210 130 380 280 380 C 390 380 430 320 410 270" />
+  </g>
+</svg>

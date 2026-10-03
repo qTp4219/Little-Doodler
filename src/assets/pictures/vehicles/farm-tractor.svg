@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Green Tractor" data-category="vehicles" data-accent="#15803D">
+  <title>Green Tractor</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="Farm Land" fill="#FEF9C3" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="cab" name="Tractor Cab" fill="#22C55E" d="M 120 180 L 240 180 L 240 330 L 120 330 Z" />
+    <path id="hood" name="Engine Hood" fill="#16A34A" d="M 240 240 L 400 240 L 400 330 L 240 330 Z" />
+    <path id="wheel_b" name="Giant Back Wheel" fill="#1E293B" d="M 160 310 C 110 310 110 420 160 420 C 210 420 210 310 160 310 Z" />
+    <path id="wheel_f" name="Small Front Wheel" fill="#1E293B" d="M 350 340 C 320 340 320 420 350 420 C 380 420 380 340 350 340 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 120 180 L 240 180 L 240 330 L 120 330 Z M 240 240 L 400 240 L 400 330 L 240 330 Z" />
+  </g>
+</svg>

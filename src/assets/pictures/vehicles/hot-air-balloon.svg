@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="Hot Air Balloon" data-category="vehicles" data-accent="#EC4899">
+  <title>Hot Air Balloon</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="High Clouds" fill="#E0F2FE" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="stripe1" name="Balloon Center" fill="#F43F5E" d="M 250 60 C 210 60 190 220 230 300 L 270 300 C 310 220 290 60 250 60 Z" />
+    <path id="stripe_l" name="Balloon Left" fill="#38BDF8" d="M 250 60 C 120 70 110 240 230 300 Z" />
+    <path id="stripe_r" name="Balloon Right" fill="#FACC15" d="M 250 60 C 380 70 390 240 270 300 Z" />
+    <path id="basket" name="Wicker Basket" fill="#92400E" d="M 220 360 L 280 360 L 275 420 L 225 420 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M 225 300 L 230 360 M 275 300 L 270 360" />
+    <path fill="none" stroke="#1E293B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M 220 360 L 280 360 L 275 420 L 225 420 Z" />
+  </g>
+</svg>

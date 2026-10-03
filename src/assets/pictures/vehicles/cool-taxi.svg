@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" data-title="City Taxi" data-category="vehicles" data-accent="#FACC15">
+  <title>City Taxi</title>
+  <!-- Colorable Regions -->
+  <g id="regions">
+    <path id="bg" name="City Street" fill="#F8FAFC" d="M 10 10 L 490 10 L 490 490 L 10 490 Z" />
+    <path id="sign" name="Taxi Sign" fill="#1E293B" d="M 220 180 L 280 180 L 270 210 L 230 210 Z" />
+    <path id="body" name="Yellow Taxi Body" fill="#FACC15" d="M 80 270 L 150 210 L 350 210 L 420 270 L 440 350 L 60 350 Z" />
+    <path id="win_f" name="Front Glass" fill="#BAE6FD" d="M 160 225 L 240 225 L 240 270 L 130 270 Z" />
+    <path id="win_b" name="Back Glass" fill="#BAE6FD" d="M 260 225 L 340 225 L 370 270 L 260 270 Z" />
+    <path id="wheel_l" name="Wheel Left" fill="#1E293B" d="M 140 350 C 110 350 110 410 140 410 C 170 410 170 350 140 350 Z" />
+    <path id="wheel_r" name="Wheel Right" fill="#1E293B" d="M 360 350 C 330 350 330 410 360 410 C 390 410 390 350 360 350 Z" />
+  </g>
+  <!-- Permanent Foreground Outlines -->
+  <g id="outlines">
+    <path fill="none" stroke="#1E293B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M 80 270 L 150 210 L 350 210 L 420 270 L 440 350 L 60 350 Z" />
+  </g>
+</svg>
